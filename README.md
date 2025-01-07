@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibz11" alt="ibz11" /></a> </p>
 
-- 🔭 I’m currently working on **on learning C# with React**
 
-- 🌱 I’m currently learning **C# , .NET , Next JS**
 
-- 👯 I’m looking to collaborate on **in C# projects**
+- 🌱 I’m currently learning ** Next JS**
+
+- 👯 I’m looking to collaborate on **in Next projects**
 
 - 👨‍💻 My portfolio website [https://ibzportfolio.netlify.app/](https://ibzportfolio.netlify.app/)
 
