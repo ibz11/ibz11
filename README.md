@@ -1,30 +1,59 @@
-<h1 align="center">Hi 👋, I'm Ibrahim</h1>
-<h3 align="center">A passionate web developer from Kenya</h3>
+# 👋 Hi, I'm Ibrahim
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibz11&label=Profile%20views&color=0e75b6&style=flat" alt="ibz11" /> </p>
+I'm a **Full Stack Developer** who loves building practical solutions using modern tech. I specialize in:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibz11" alt="ibz11" /></a> </p>
+- 🐍 Python & ⚡ FastAPI / 🕸 Django
+- 🟨 JavaScript / 🟦 TypeScript with 🔥 Vue.js & ⚛️ React
+- 🐳 Docker • 🐧 Linux • 🐙 Git
+- 🗄️ SQL / PostgreSQL / MongoDB
+
+I'm currently exploring the world of **Go (Golang) 🦫**!
+
+---
+
+## 🔧 Tech Stack
+
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white&style=flat)
+
+### 🖥️ Frontend
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+
+### ⚙️ Backend
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)
+
+### 🛢️ Databases
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+
+### 🛠 Dev Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+
+---
+
+## 🌱 Currently Learning
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat) Golang and building scalable backend systems
+
+---
+
+## 📫 Let's Connect
+
+- 📧 [Email Me](mailto:ibramiabdi.ke@gmai.com)
+- 🐦 [Twitter](https://twitter.com/yourhandle)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahim-mohamed-ibrahim-958b6821b/")
+
+---
+
+> “Keep building. Every bug is just a step closer to mastery.” 🚀
 
 
 
-- 🌱 I’m currently learning ** Next JS**
-
-- 👯 I’m looking to collaborate on **in Next projects**
-
-- 👨‍💻 My portfolio website [https://ibzportfolio.netlify.app/](https://ibzportfolio.netlify.app/)
-
-- 📫 How to reach me **ibramiabdi.ke@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ibrahim-mohamed-ibrahim-958b6821b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ibrahim-mohamed-ibrahim-958b6821b/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibz11&show_icons=true&locale=en&layout=compact" alt="ibz11" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ibz11&show_icons=true&locale=en" alt="ibz11" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibz11&" alt="ibz11" /></p>
